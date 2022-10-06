@@ -1,0 +1,253 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    background-color: aliceblue;
+}
+
+.header-div{
+    background-color: darkred;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+    margin: 80px 340px 100px 340px;
+
+}
+
+.titulo-principal{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
+    color: whitesmoke;
+    font-size: 80px;
+    font-weight: bold 700; 
+    font-family: 'Space Mono', monospace;
+}
+
+
+.titulo-capitao{
+    margin-left: 20px;
+    font-size: 40px;
+    padding: 10px 0 10px 0;
+    color: brown;
+    text-shadow: black 2px 2px;
+    font-weight: bold 700; 
+    font-family: 'Space Mono', monospace;
+
+}
+
+
+.imgs{
+    height: auto ;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.icones{
+    width: 50px;
+    height: auto;
+    padding: 8px;
+}
+
+.section-capitao{
+   display: flex;
+   justify-content: center;
+}
+
+.section-tripulantes{
+  display:block;
+}
+
+.titulo-tripulantes{
+    margin-right: 20px;
+    font-size: 40px;
+    color: brown;
+    text-shadow: black 2px 2px;
+    text-align: center;
+    padding-top: 46px;
+    font-weight: bold 700; 
+    font-family: 'Space Mono', monospace;
+
+}
+
+.titulo-ceap{
+    font-size: 40px;
+    font-weight: bold;
+    color: brown;
+    text-shadow: black 2px 2px;
+}
+
+.titulo-afesu{
+    font-size: 40px;
+    font-weight: bold;
+    color: brown;
+    text-shadow: black 2px 2px;
+}
+
+.div-info{
+    display: block;
+    margin-left: 18px;
+    background: white;
+    border-radius: 4px;
+    max-width: 540px;
+}
+
+.ul-info{
+    text-align: center;
+    padding: 18px;
+    font-size: 16px;
+    margin: auto;
+    line-height: 1.8;
+    font-weight: bold;
+}
+
+li{
+    width: 31em;
+    word-wrap: break-word;
+}
+
+.div-teste{
+    padding-top: 42px;
+}
+
+.div-redes{
+    padding-top: 34px;
+    display: flex;
+    justify-content: center;
+}
+
+.div-capitao{
+    margin-top: 140px;
+    margin-right: 44px;
+}
+
+.div-tripulantes{
+    display: flex;
+    justify-content: center;
+}
+
+.div-content{
+    margin: 30px 120px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icone-capitao{
+    height: 72px;
+    width: auto;
+}
+
+.icone-tripulantes{
+    height: 68px;
+    width: 70px;
+    padding-top: 34px;
+    padding-right: 18px;
+}
+
+.icone-logo{
+    height: auto;
+    width: 120px;
+}  
+
+.icone-logoafesu{
+    height: 40px;
+}
+
+.div-ceap, .div-afesu{
+    margin-left: 60px;
+}
+
+
+.div-imagem{
+    display: flex;
+    justify-content: center;
+    padding: 18px;
+}
+
+.img-tenorio-robson{
+    max-width:80%;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.teste-tenorio{
+    text-align: center;
+    padding: 18px;
+    font-size: 16px;
+    margin: auto;
+    line-height: 1.8;
+    font-weight: bold;
+}
+
+.div-redes-tenorio{
+    padding-top: 84px;
+    display: flex;
+    justify-content: center;
+}
+
+.div-redes-ana{
+    padding-top: 68px;
+    display: flex;
+    justify-content: center;
+}
+
+.div-redes-tenorio-robson{
+    padding-top: 110px;
+    display: flex;
+    justify-content: center;
+}
+
+.div-footer{
+    background: darkred;
+    display: flex;
+    justify-content: center;
+    padding: 19px;
+}
+
+.footer-paragrafo{
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.section-titulo-frase{
+    margin: auto;
+    padding: 10px;
+    color: whitesmoke;
+    font-family: 'Space Mono', monospace;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.div-frase{
+    background-color: darkred;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+    margin: 68px 340px 58px 340px;
+}
+
+.frase{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: black;
+}
+
+button{
+   
+    font-size: 26px;
+    color: whitesmoke;
+    background: darkred;
+    border-radius: 3px solid white;
+    border-radius: 8px;
+    box-shadow: 8px 3px 11px black;
+    margin: 32px 0 58px 0px;
+    padding: 8px;
+}
+
+
+.div-button{
+    display: flex;
+    justify-content: center;
+}
