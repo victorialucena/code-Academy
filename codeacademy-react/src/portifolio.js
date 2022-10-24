@@ -1,10 +1,12 @@
+import Header from './components/header'
+import './reset.css'
+import './style.css'
 
 function Portfolio() {
   return (
-    <div className="App">
-      <h1>oi vi hehehehhehehehhe</h1>
+    <div className="div-portifolio">
+      <Header />
     </div>
   )
 }
-
-export default Portfolio;
+export default Portfolio
