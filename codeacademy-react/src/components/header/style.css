@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+}
+
+.div-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    width: auto;
+    padding: 50px;
+    background-color: aliceblue;
+}
+
+
+.title-header {
+    text-align: center;
+    margin: auto;
+    color: black;
+    font-size: 40px;
+    font-family: 'Space Mono', monospace;
+}
+
+.logo-rv {
+    width: 150px;
+}
+
+.logo-iq {
+    width: 50px;
+    ;
+}
+
+@media (max-width: 425px) {
+    .title-header {
+        font-size: 16px;
+    }
+
+    .div-header {
+        padding: 20px;
+    }
+
+    .logo-rv {
+        width: 80px;
+    }
+
+    .logo-iq {
+        width: 30px;
+    }
+
+}
