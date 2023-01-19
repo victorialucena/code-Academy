@@ -7,7 +7,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    height: 60px;
+    height: 15px;
     width: auto;
     padding: 50px;
     background-color: #fff;
@@ -16,7 +16,6 @@ body {
 
 .title-header {
     text-align: center;
-    margin: auto;
     color: black;
     font-size: 40px;
     font-family: 'Space Mono', monospace;
