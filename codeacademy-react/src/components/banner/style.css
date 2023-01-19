@@ -1,0 +1,17 @@
+.div-banner{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #b2292e;
+}
+
+
+.codeacademy-img{
+    height: 49rem;
+    width: 80rem;
+    padding: 50px;
+    border-radius: 50px;
+    opacity: 0.5;
+}
