@@ -1,5 +1,5 @@
-import Banner from './src/components/banner'
-import Header from './src/components/header'
+import Banner from './components/banner'
+import Header from './components/header'
 import './reset.css'
 import './style.css'
 
