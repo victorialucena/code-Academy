@@ -10,12 +10,8 @@ export const infos = [
       musicas: ['Paradise - ColdPlay e Tá Rocheda', 'Barões da Pisadinha'],
       linguagens: ['AWS', 'TypeScript', 'Golang']
       },
-      {
-          id: 1,
-      }, 
-
     {
-      id: 0,
+      id: 1,
       image: '../../images/aninha.jpeg',
       alt: 'a definir',
       nome: 'Ana Helena Faustino Teodoro',
@@ -25,12 +21,8 @@ export const infos = [
       musicas: ['Beyoncé - Pretty Hurts'],
       linguagens: ['AWS', 'TypeScript', 'Golang', 'Python']
       },
-      {
-          id: 2, 
-      },
-    
     {
-      id: 0,
+      id: 2,
       image: '../../images/tenorio.jpeg',
       alt: 'a definir',
       nome: 'Felipe Tenório do Nascimento',
@@ -40,12 +32,8 @@ export const infos = [
       musicas: ['LoFi Brasil'],
       linguagens: ['Javascript', 'Python', 'Java']
       },
-      {
-          id: 3,  
-      },
-
    {
-      id: 0,
+      id: 3,
       image: '../../images/calixto.jpeg',
       alt: 'a definir',
       nome: 'Kauã Chaves Calixto',
@@ -54,14 +42,10 @@ export const infos = [
       comida: 'Carne moída em tudo e de qualquer forma.',
       musicas: ['EDEN', 'Tarcísio do Acordeo', 'Mc Hariel'],
       linguagens: ['Java']
-      },
-      {
-          id: 4,       
       }, 
-
    {
-      id: 0,
-      image: '../../images/calixto.jpeg',
+      id: 4,
+      image: '../../images/robson.jpg',
       alt: 'a definir',
       nome: 'Robson Gabriel Neves',
       idade: 18,
@@ -70,13 +54,9 @@ export const infos = [
       musicas: 'Full Metal Cars - Daniel',
       linguagens: ['Java','Python', 'C#', 'C++']
       },
-      {
-          id: 5,  
-      }, 
-      
     {
-      id: 0,
-      image: '../../images/calixto.jpeg',
+      id: 5,
+      image: '../../images/vic.jpeg',
       alt: 'a definir',
       nome: 'Victoria Lucena da Silva',
       idade: 18,
@@ -84,8 +64,5 @@ export const infos = [
       comida: 'Baião de Dois',
       musicas: ['Proteção de Tela', 'Tarcísio do Acordeon', 'Filipe Ret - Invicto'],
       linguagens: ['HTML', 'CSS', 'JavaScript']
-      },
-      {
-          id: 6, 
-      }, 
+      }
 ]
