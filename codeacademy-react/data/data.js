@@ -93,8 +93,7 @@ export const infos = [
           linguagens: ['HTML', 'CSS', 'JavaScript']
           },
           {
-              id: 5,
+              id: 6,
               
           }, 
-
 ]
