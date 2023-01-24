@@ -12,9 +12,7 @@ export const infos = [
       },
       {
           id: 1,
-          
       }, 
-
 
     {
       id: 0,
@@ -28,8 +26,7 @@ export const infos = [
       linguagens: ['AWS', 'TypeScript', 'Golang', 'Python']
       },
       {
-          id: 2,
-          
+          id: 2, 
       },
     
     {
@@ -42,58 +39,53 @@ export const infos = [
       comida: 'Lasanha',
       musicas: ['LoFi Brasil'],
       linguagens: ['Javascript', 'Python', 'Java']
-    },
-
-    {
-        id: 3,  
+      },
+      {
+          id: 3,  
       },
 
+   {
+      id: 0,
+      image: '../../images/calixto.jpeg',
+      alt: 'a definir',
+      nome: 'Kauã Chaves Calixto',
+      idade: 18,
+      profisao:[ 'Astronauta', 'Diretor', 'Programador', 'Profissional de Vôlei'],
+      comida: 'Carne moída em tudo e de qualquer forma.',
+      musicas: ['EDEN', 'Tarcísio do Acordeo', 'Mc Hariel'],
+      linguagens: ['Java']
+      },
       {
-        id: 0,
-        image: '../../images/calixto.jpeg',
-        alt: 'a definir',
-        nome: 'Kauã Chaves Calixto',
-        idade: 18,
-        profisao:[ 'Astronauta', 'Diretor', 'Programador', 'Profissional de Vôlei'],
-        comida: 'Carne moída em tudo e de qualquer forma.',
-        musicas: ['EDEN', 'Tarcísio do Acordeo', 'Mc Hariel'],
-        linguagens: ['Java']
-        },
-        {
-            id: 4,
-            
-        }, 
+          id: 4,       
+      }, 
 
-
+   {
+      id: 0,
+      image: '../../images/calixto.jpeg',
+      alt: 'a definir',
+      nome: 'Robson Gabriel Neves',
+      idade: 18,
+      profisao:'Desenvolvedor de jogos',
+      comida: 'Lasanha à Bolonhesa',
+      musicas: 'Full Metal Cars - Daniel',
+      linguagens: ['Java','Python', 'C#', 'C++']
+      },
       {
-        id: 0,
-        image: '../../images/calixto.jpeg',
-        alt: 'a definir',
-        nome: 'Robson Gabriel Neves',
-        idade: 18,
-        profisao:'Desenvolvedor de jogos',
-        comida: 'Lasanha à Bolonhesa',
-        musicas: 'Full Metal Cars - Daniel',
-        linguagens: ['Java','Python', 'C#', 'C++']
-        },
-        {
-            id: 5,
-            
-        }, 
+          id: 5,  
+      }, 
       
-        {
-          id: 0,
-          image: '../../images/calixto.jpeg',
-          alt: 'a definir',
-          nome: 'Victoria Lucena da Silva',
-          idade: 18,
-          profisao:'Sempre soube que seria com tecnologia, mas nunca soube o que era',
-          comida: 'Baião de Dois',
-          musicas: ['Proteção de Tela', 'Tarcísio do Acordeon', 'Filipe Ret - Invicto'],
-          linguagens: ['HTML', 'CSS', 'JavaScript']
-          },
-          {
-              id: 6,
-              
-          }, 
+    {
+      id: 0,
+      image: '../../images/calixto.jpeg',
+      alt: 'a definir',
+      nome: 'Victoria Lucena da Silva',
+      idade: 18,
+      profisao:'Sempre soube que seria com tecnologia, mas nunca soube o que era',
+      comida: 'Baião de Dois',
+      musicas: ['Proteção de Tela', 'Tarcísio do Acordeon', 'Filipe Ret - Invicto'],
+      linguagens: ['HTML', 'CSS', 'JavaScript']
+      },
+      {
+          id: 6, 
+      }, 
 ]
