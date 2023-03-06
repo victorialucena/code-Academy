@@ -1,18 +1,20 @@
+import  {aninha, calixto, pedro, robson, tenorio, vic} from "../../images/index"
+
 export const infos = [
     {
       id: 0,
-      image: '../../images/pedro.jpeg',
+      image: pedro,
       alt: 'a definir',
       nome: 'Pedro Sergio Borges Ribeiro',
       idade: 24,
       profisao: 'Piloto de Avião',
       comida: 'Lasanha',
-      musicas: ['Paradise - ColdPlay e Tá Rocheda', 'Barões da Pisadinha'],
+      musicas: ['Paradise - ColdPlay', 'Barões da Pisadinha - Ta rocheada'],
       linguagens: ['AWS', 'TypeScript', 'Golang']
       },
     {
       id: 1,
-      image: '../../images/aninha.jpeg',
+      image: aninha,
       alt: 'a definir',
       nome: 'Ana Helena Faustino Teodoro',
       idade: 17,
@@ -23,7 +25,7 @@ export const infos = [
       },
     {
       id: 2,
-      image: '../../images/tenorio.jpeg',
+      image: tenorio,
       alt: 'a definir',
       nome: 'Felipe Tenório do Nascimento',
       idade: 18,
@@ -34,7 +36,7 @@ export const infos = [
       },
    {
       id: 3,
-      image: '../../images/calixto.jpeg',
+      image: calixto,
       alt: 'a definir',
       nome: 'Kauã Chaves Calixto',
       idade: 18,
@@ -45,7 +47,7 @@ export const infos = [
       }, 
    {
       id: 4,
-      image: '../../images/robson.jpg',
+      image: robson,
       alt: 'a definir',
       nome: 'Robson Gabriel Neves',
       idade: 18,
@@ -56,7 +58,7 @@ export const infos = [
       },
     {
       id: 5,
-      image: '../../images/vic.jpeg',
+      image: vic,
       alt: 'a definir',
       nome: 'Victoria Lucena da Silva',
       idade: 18,
