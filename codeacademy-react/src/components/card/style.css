@@ -1,14 +1,46 @@
 .card-box{
-  list-style: none;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  column-gap: 3rem;
-  row-gap: 4rem;
- }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background-color: rgba(0, 0, 0, 0.9);
+  margin: auto;
+  border-radius: 4px;
+  max-width: 800px;
+  padding: 15px;
+}
 
  .card-info{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* color: white; */
+  padding: 10px;
+}
 
-   display: flex;
-    flex-direction: column;
-    align-items: center;
- }
+.img{
+  height: auto ;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.button{
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+
+.infos{
+  text-align: center;
+  padding: 18px;
+  font-size: 16px;
+  margin: auto;
+  line-height: 1.8;
+  font-weight: bold;
+  color: white
+}
+
+.span-titles{
+  color: #b2292e ;
+}
+
